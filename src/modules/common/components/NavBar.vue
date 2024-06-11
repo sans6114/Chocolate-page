@@ -19,8 +19,8 @@
           <RouterLink :to="{ name: 'historia' }" class="btn btn-outline btn-secondary">
             Nuestra historia
           </RouterLink>
-          <RouterLink :to="{ name: 'Emprender' }" class="btn btn-outline btn-secondary">
-            Quiero emprender
+          <RouterLink :to="{ name: 'productos' }" class="btn btn-outline btn-secondary">
+            Productos
           </RouterLink>
         </ul>
       </div>
